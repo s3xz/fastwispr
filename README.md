@@ -8,7 +8,7 @@ A privacy-first alternative to [Wispr Flow](https://wisprflow.ai) and similar cl
 
 > Not affiliated with Wispr Flow / wisprflow.ai. FastWispr is an independent open-source project.
 
-[![tests](https://github.com/rodrigo-devv/fastwispr/actions/workflows/test.yml/badge.svg)](https://github.com/rodrigo-devv/fastwispr/actions/workflows/test.yml)
+[![tests](https://github.com/s3xz/fastwispr/actions/workflows/test.yml/badge.svg)](https://github.com/s3xz/fastwispr/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Why this exists
@@ -160,4 +160,4 @@ Expected: `hotkeys`, `audio`, `paste`, `tray`, `settings`, `single-instance`, `s
 
 [MIT](LICENSE) — use it, fork it, audit it.
 
-Repo: [github.com/rodrigo-devv/fastwispr](https://github.com/rodrigo-devv/fastwispr)
+Repo: [github.com/s3xz/fastwispr](https://github.com/s3xz/fastwispr)

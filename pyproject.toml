@@ -14,8 +14,8 @@ keywords = ["dictation", "whisper", "speech-to-text", "windows", "local-first", 
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/rodrigo-devv/fastwispr"
-Repository = "https://github.com/rodrigo-devv/fastwispr"
+Homepage = "https://github.com/s3xz/fastwispr"
+Repository = "https://github.com/s3xz/fastwispr"
 
 [project.optional-dependencies]
 stt = ["faster-whisper>=1.0"]

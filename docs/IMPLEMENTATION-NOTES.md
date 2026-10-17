@@ -1,6 +1,6 @@
 # FastWISPR — PySide6 implementation handoff
 
-For the coding agent implementing the approved UI in https://github.com/rodrigo-devv/fastwispr
+For the coding agent implementing the approved UI in https://github.com/s3xz/fastwispr
 
 This replaces the current `tkinter` settings window and the thin `pystray` menu with a compact Qt hub. Do not add a browser, Electron, or QWebEngine to render the designs.
 
